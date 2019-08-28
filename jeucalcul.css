@@ -1,0 +1,27 @@
+html {
+    font-family:Arial, Helvetica, sans-serif;
+  
+  }
+  h1 {
+    color: rgb(6, 6, 92);
+    text-align: center;
+  }
+  .resultParas{
+    text-align: center;
+  }
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    border: 5px solid rgb(6, 6, 92);
+    padding: 50px;
+    margin-top: 150px;
+    background-color: #64e0ed;
+    
+  
+  }
+  .lastResult {
+    color: white;
+    padding: 3px;
+  }
